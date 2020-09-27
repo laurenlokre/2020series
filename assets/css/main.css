@@ -1,0 +1,26 @@
+
+html {
+  background: url("orange.jpg") no-repeat center fixed;
+  background-size: cover;
+
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+
+body {
+  margin: 10px;
+}
+
+img {
+  max-width: 10%;
+  margin: 0 1% 50px;
+}
+
+.flex-container {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
